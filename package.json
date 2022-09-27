@@ -1,0 +1,21 @@
+{
+    "name": "ayu-seth",
+    "displayName": "Ayu-Seth",
+    "description": "My customized color theme based on Ayu.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ayu-seth",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ayu-seth-color-theme.json"
+            }
+        ]
+    }
+}
